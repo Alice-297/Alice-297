@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Prachi Chirkhe
+## Hi there 👋, My name is Prachi Chirkhe
 #### Data Analyst & Adventure Seeker ‍♀️‍♀️⛰️
 Excel sheets my spell book , Python my wand 🪄, beaches my happy place ️. 
 I'm Prachi, a data analyst by day and a data science enthusiast by...well, every other waking moment.
